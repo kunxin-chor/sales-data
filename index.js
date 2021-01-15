@@ -15,7 +15,7 @@ var Checkout = require("./data/completed_checkout");
 var Fullfillment = require("./data/fulfillment.js");
 
 //CHANGE THIS TO BE AS YOU WANT
-var SalesCount = 100000;
+var SalesCount = 100;
 
 var loadBigDataset = function(){
 
